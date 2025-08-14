@@ -41,7 +41,7 @@ Our findings shed light on areas highly susceptible to increased fire spread, in
 
   <br>
   
-  <img src="readme-images/FA1 POSTER GROUP 6 PAGE 1.png"  alt="Wildfire Poster 2" />
+  <img src="readme-images/FA1 POSTER GROUP 6 PAGE 2.png"  alt="Wildfire Poster 2" />
   
 </p>
 
